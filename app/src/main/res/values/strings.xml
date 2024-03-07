@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Content Provider Exercise</string>
+    <string name="load">load</string>
+    <string name="avatar">avatar</string>
+    <string name="nguyen_van_a">Nguyen Van A</string>
+    <string name="_0123456789">0123456789</string>
+</resources>
